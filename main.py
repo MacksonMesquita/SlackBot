@@ -21,14 +21,14 @@ counter = 0
 slack_client = WebClient(token=SLACK_TOKEN)
 # token validation
 
-lembrete = "Hey, :eyes: :dart: Não esqueça que hoje é o seu dia de apresentação na daily!"
+text = "Hey, :eyes: :dart: Não esqueça que hoje é o seu dia de apresentação na daily!"
 # scheduler menssage 
 
 def send_reminder():
     global counter
    
     mentioned_person = people_list[counter]
-    message = f"{lembrete} {mentioned_person}"
+    message = f"{text} {mentioned_person}"
     response = slack_client.chat_postMessage(
         channel=CHANNEL_ID, 
         text=message
