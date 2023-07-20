@@ -50,4 +50,4 @@ schedule.every().friday.at("09:25").do(send_reminder)
 
 while True:
     schedule.run_pending()
-    time.sleep(1500)
+    time.sleep(10000)
