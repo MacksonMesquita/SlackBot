@@ -16,7 +16,7 @@ SLACK_TOKEN = "endpoint do app criado no Slack API"
 CHANNEL_ID = "id do canal no slack, que o bot irá enviar a menssagem"
 people_list = ["@nomepessoa", "@nomepessoa", "@nomepessoa", "@nomepessoa", "@nomepessoa"] 
 counter = 0
-# Slack token configuration, and people list to made something
+# Slack token configuration, and people list to make something
 
 slack_client = WebClient(token=SLACK_TOKEN)
 # token validation
