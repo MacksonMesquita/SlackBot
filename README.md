@@ -1,7 +1,7 @@
 # SlackBot
 Neste repositório você tera acesso a um bot para Slack feito em Python. (Slackbot made with Python).
 
-**Pré requisito:** 
+**Pré requisitos:** 
 
 Partindo do pressuposto que você já tem um workspace habilitado no slack, será necessário apenas acessar o site Slack API e realizar os procedimentos para a criação de um novo app (bot), gerando assim o endpoint necessário para a validação da ação.
 
