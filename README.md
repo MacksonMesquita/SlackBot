@@ -16,7 +16,7 @@ Deve ser concedida as configurações necessárias para que o bot consiga realiz
 ---
 ### Supporting for other language 👇 
 <br>
-Ins this repository yo find a Slackbot made with Python
+In this repository yo find a Slackbot made with Python
 <br>
 <br> 
 
