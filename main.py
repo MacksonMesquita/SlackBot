@@ -12,17 +12,15 @@ from slack_sdk import WebClient
 #schedule.every().minute.at(":17").do(job)
 # Schedule lib examples
 
-SLACK_TOKEN = "endpoint do app criado no Slack API"
-CHANNEL_ID = "id do canal no slack, que o bot irá enviar a menssagem"
-people_list = ["@nomepessoa", "@nomepessoa", "@nomepessoa", "@nomepessoa", "@nomepessoa"] 
+SLACK_TOKEN = "endpoint/slack token"
+CHANNEL_ID = "id chanel"
+people_list = ["@personname", "@personname", "@personname", "@personname", "@personname"] 
 counter = 0
-# Slack token configuration, and people list to make something
 
 slack_client = WebClient(token=SLACK_TOKEN)
 # token validation
 
-text = "Hey, :eyes: :dart: Não esqueça que hoje é o seu dia de apresentação na daily!"
-# scheduler menssage 
+text = "Hey, :eyes: :dart: It's your day in the daily apresentation!"
 
 def send_reminder():
     global counter
@@ -35,18 +33,18 @@ def send_reminder():
     )
 
     if response["ok"]:
-        print(f"Lembrete enviado com sucesso para {mentioned_person}")
+        print(f" Successfully reminder sent for {mentioned_person}")
     else:
-        print(f"Erro ao enviar lembrete para {response['error']}")
+        print(f" Reminder error {response['error']}")
 
     counter = (counter + 1) % len(people_list)
 
 schedule.every().monday.at("09:25").do(send_reminder)
-schedule.every().tuesday.at("09:25").do(send_reminder
+schedule.every().tuesday.at("09:25").do(send_reminder)
 schedule.every().wednesday.at("09:25").do(send_reminder)
 schedule.every().thursday.at("09:25").do(send_reminder)
 schedule.every().friday.at("09:25").do(send_reminder)
-# message scheduling
+
 
 while True:
     schedule.run_pending()
