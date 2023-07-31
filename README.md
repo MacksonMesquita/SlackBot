@@ -13,7 +13,12 @@ Deve ser concedida as configurações necessárias para que o bot consiga realiz
 
 **Qualquer permissão de acesso, é setada no Slack API**
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+### Supporting for other language 👇 
+<br>
+Ins this repository yo find a Slackbot made with Python
+<br>
+<br> 
 
 **Prerequisites**
 
