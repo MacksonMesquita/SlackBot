@@ -38,6 +38,7 @@ def send_reminder():
         print(f" Reminder error {response['error']}")
 
     counter = (counter + 1) % len(people_list)
+    # moving to the next person on the list, according to the day
 
 schedule.every().monday.at("09:25").do(send_reminder)
 schedule.every().tuesday.at("09:25").do(send_reminder)
