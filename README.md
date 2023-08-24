@@ -13,7 +13,8 @@ Deve ser concedida as configurações necessárias para que o bot consiga realiz
 
 **Qualquer permissão de acesso, é setada no Slack API**
 
----
+![](https://i.imgur.com/waxVImv.png)
+
 ### Supporting for other language 👇 
 <br>
 In this repository you find a Slackbot made with Python
