@@ -45,7 +45,7 @@ schedule.every().tuesday.at("09:25").do(send_reminder)
 schedule.every().wednesday.at("09:25").do(send_reminder)
 schedule.every().thursday.at("09:25").do(send_reminder)
 schedule.every().friday.at("09:25").do(send_reminder)
-
+# days that reminder will be sent
 
 while True:
     schedule.run_pending()
