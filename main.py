@@ -12,7 +12,7 @@ from slack_sdk import WebClient
 #schedule.every().minute.at(":17").do(job)
 # Schedule lib examples
 
-SLACK_TOKEN = "endpoint/slack token"
+SLACK_TOKEN = "slack token" # Here, you will need the token generated through the slack API
 CHANNEL_ID = "id chanel"
 people_list = ["@personname", "@personname", "@personname", "@personname", "@personname"] 
 counter = 0
