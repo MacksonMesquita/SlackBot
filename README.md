@@ -13,6 +13,14 @@ Deve ser concedida as configurações necessárias para que o bot consiga realiz
 
 **Qualquer permissão de acesso, é setada no Slack API**
 
+**Se você gostou do conteúdo, compartilhe!**
+
+![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+
 ![](https://i.imgur.com/waxVImv.png)
 
 ### Supporting for other language 👇 
@@ -32,3 +40,11 @@ Any style configuration must be done through in the Slack API, such as: bot name
 The necessary settings must be granted so that the bot can perform the actions, in the example above, the **Chat: write** action was used (permission for the bot to be able to send messages in the chosen chat).
 
 **Any access permission is set in the Slack API**
+
+**If you liked this content, share it!**
+
+![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
