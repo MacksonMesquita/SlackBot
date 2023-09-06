@@ -11,7 +11,9 @@ Qualquer configuração de estilo do bot em questão, deve ser feita pelo Slack 
 
 Deve ser concedida as configurações necessárias para que o bot consiga realizar as ações, no exemplo acima, foi utilizada a ação Chat: write (permissão para que o bot consiga enviar menssagens no chat escolhido). 
 
-**Qualquer permissão de acesso, é setada no Slack API**
+> Qualquer permissão de acesso, é setada no Slack API
+
+<br />
 
 **Se você gostou do conteúdo, compartilhe!**
 
@@ -39,7 +41,9 @@ Any style configuration must be done through in the Slack API, such as: bot name
 
 The necessary settings must be granted so that the bot can perform the actions, in the example above, the **Chat: write** action was used (permission for the bot to be able to send messages in the chosen chat).
 
-**Any access permission is set in the Slack API**
+> Any access permission is set in the Slack API
+
+<br />
 
 **If you liked this content, share it!**
 
