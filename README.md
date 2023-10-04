@@ -17,7 +17,7 @@ Deve ser concedida as configurações necessárias para que o bot consiga realiz
 
 <br />
 
-### Guia para slack API:
+### Guia para Slack API:
 
 #### Para gerar um token e criar um bot, siga os passos abaixo:
     1. Acesse o slack API
@@ -74,7 +74,7 @@ The necessary settings must be granted so that the bot can perform the actions, 
 
 <br />
 
-### Guide for slack API:
+### Guide for Slack API:
 
 #### To generate a token and create a bot, follow the steps below:
     1. Access the slack API
