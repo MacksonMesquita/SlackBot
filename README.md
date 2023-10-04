@@ -17,6 +17,31 @@ Deve ser concedida as configurações necessárias para que o bot consiga realiz
 
 <br />
 
+### Guia para slack API:
+
+#### Para gerar um token e criar um bot, siga os passos abaixo:
+    1. Acesse o slack API
+    2. Clique em "your apps" no canto superior direito
+    3. Caso não tenha uma conta, deve ser criada para prosseguir 
+    4. Clique em "Create new app" -> from scratch
+    5. Selecione um nome e um workspace de origem 
+    6. Instale as dependencias do Slack em seu workspace
+    7. Em "permisions", selecione as regras de conduta do seu bot 
+    8. Em "display settings" personalize seu bot
+    9. Coloque o token gerado após instalar as dependencias em seu código
+
+<br />
+
+<details>
+<summary> Documentações necessárias </summary>
+<br />
+Slack API: https://api.slack.com/
+<br />
+Biblioteca - Schedule para Python: https://schedule.readthedocs.io/en/stable/  
+</details>
+
+<br />
+
 **Se você gostou do conteúdo, compartilhe!**
 
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
@@ -46,6 +71,31 @@ The necessary settings must be granted so that the bot can perform the actions, 
 <br />
 
 > Any access or action permission, is set in the Slack API
+
+<br />
+
+### Guide for slack API:
+
+#### To generate a token and create a bot, follow the steps below:
+    1. Access the slack API
+    2. Click in "your apps" in the top right corner
+    3. If you do not have an account, you must create one to proceed
+    4. Click on "Create new app" -> from scratch
+    5. Select a name and source workspace
+    6. Install the Slack dependencies in your workspace
+    7. Under "permissions", select your bot's rules of conduct
+    8. In "display settings" customize your bot
+    9. Place the token generated after installing the dependencies in your code
+
+<br />
+
+<details>
+<summary> Required documentation </summary>
+<br />
+Slack API: https://api.slack.com/
+<br />
+Library - Schedule for Python: https://schedule.readthedocs.io/en/stable/
+</details>
 
 <br />
 
