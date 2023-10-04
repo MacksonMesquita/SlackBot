@@ -33,7 +33,7 @@ Deve ser concedida as configurações necessárias para que o bot consiga realiz
 <br />
 
 <details>
-<summary> Documentações necessárias </summary>
+<summary> Documentações necessárias 📖 </summary>
 <br />
 Slack API: https://api.slack.com/
 <br />
@@ -90,7 +90,7 @@ The necessary settings must be granted so that the bot can perform the actions, 
 <br />
 
 <details>
-<summary> Required documentation </summary>
+<summary> Required documentation 📖 </summary>
 <br />
 Slack API: https://api.slack.com/
 <br />
