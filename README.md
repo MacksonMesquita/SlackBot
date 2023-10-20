@@ -85,7 +85,7 @@ The necessary settings must be granted so that the bot can perform the actions, 
     8. In "display settings" customize your bot
     9. Place the token generated after installing the dependencies in your code
 
-### Necessary Documentations 📖
+### Necessary documentations 📖
 
 [Slack API](https://api.slack.com/)
 
