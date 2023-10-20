@@ -30,15 +30,13 @@ Deve ser concedida as configurações necessárias para que o bot consiga realiz
     8. Em "display settings" personalize seu bot
     9. Coloque o token gerado após instalar as dependencias em seu código
 
-<br />
+### Documentações necessárias 📖
+  
+[Slack API](https://api.slack.com/)
 
-<details>
-<summary> Documentações necessárias 📖 </summary>
-<br />
-Slack API: https://api.slack.com/
-<br />
-Biblioteca - Schedule para Python: https://schedule.readthedocs.io/en/stable/  
-</details>
+
+[Biblioteca - Schedule para Python](https://schedule.readthedocs.io/en/stable/ )
+
 
 <br />
 
@@ -87,15 +85,13 @@ The necessary settings must be granted so that the bot can perform the actions, 
     8. In "display settings" customize your bot
     9. Place the token generated after installing the dependencies in your code
 
-<br />
+### Necessary Documentations 📖
 
-<details>
-<summary> Required documentation 📖 </summary>
-<br />
-Slack API: https://api.slack.com/
-<br />
-Library - Schedule for Python: https://schedule.readthedocs.io/en/stable/
-</details>
+[Slack API](https://api.slack.com/)
+
+
+[Library - Schedule for Python](https://schedule.readthedocs.io/en/stable/ )
+
 
 <br />
 
